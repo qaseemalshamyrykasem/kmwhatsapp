@@ -1,1 +1,1 @@
-{'ver1':'8', 'ver2':'00', 'ver3':'\nتحميل واتساب قاسم الشميري \n' , 'dli':'i':'https://www.ahmed2iad.com/2020/02/download-adwhatsapp-ymwhatsapp.'}
+{'ver1':'4', 'ver2':'00', 'ver3':'\nتحميل واتساب قاسم الشميري \n' , 'dli':'i':'https://www.ahmed2iad.com/2020/02/download-adwhatsapp-ymwhatsapp.'}
